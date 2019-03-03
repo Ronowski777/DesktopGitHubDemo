@@ -5,3 +5,5 @@ let x = 67
 let y = 76
 
 print(x + y)
+pirnt("ghbdtn")
+
